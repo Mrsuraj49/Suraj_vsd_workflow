@@ -1,5 +1,5 @@
-<center>
 <h1>
 Getting started with Digital VLSI SOC Design and Planning
 </h1>
-</center>
+
+In this introductory video we've learned about the basics steps required 
