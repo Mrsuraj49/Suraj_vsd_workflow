@@ -8,4 +8,4 @@ In this introductory video we've learned about the basics steps required
   <pre><code id="copyme">This is copyable text</code></pre>
   <button onclick="navigator.clipboard.writeText(document.getElementById('copyme').innerText)">Copy</button>
 </div>
-<img src="images/ammu.jpg" height="20px">
+<img src="images/ammu.jpg" height="200px">
